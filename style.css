@@ -40,15 +40,33 @@ header{
     font-size: 50px;
     padding:10px;
     background-color:#03b8c2;
+    border-radius: 15px;
 }
 nav{
     background-color: #f9028a;
     padding:10px;
+    border-radius: 15px;
 }
 
 footer{
     background-color: #ff77ab;
     padding:10px;
+}
+.fa-instagram{
+    color:#f9028a;
+}
+.fa-facebook{
+    color:#f9028a;
+}
+.fa-youtube{
+    color:#f9028a;
+}
+.fa{
+    padding:20px;
+    font-size: 100px;
+    width: 50px;
+    text-align:center;
+    text-decoration:none;
 }
 h1{
     color:#410c22
