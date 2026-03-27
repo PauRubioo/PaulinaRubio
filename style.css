@@ -83,3 +83,9 @@ div{
     border-radius: 20px;
 }
 
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2px;
+    padding: 5px;
+}
