@@ -5,10 +5,10 @@
 - 5to Trimestre
 
 # Contenido:
-**Este repositorio contiene actividades y aprendizajes de mi Licenciatura en Arte y Comunicaci´n Digitales**
+**Este repositorio contiene actividades y aprendizajes de mi Licenciatura en Arte y Comunicación Digitales**
 
 Aquí mostrare un poco sobre mi trabajo, obras y proyectos que he realizado durante estos 5 trimestres que llevo en la carrera.
-# Sobre mí:
+# Mi trabajo :
  Fotógrafa en constante evolución, apasionada por experimentar con técnicas nuevas e innovadoras y capturar momentos únicos. Mis proyectos se basan en los conocimientos y retroalimentación adquiridos en la universidad, y buscan explorar mi creatividad artística.
 
 Experiencia:
