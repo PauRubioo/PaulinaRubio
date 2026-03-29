@@ -8,11 +8,15 @@
 **Este repositorio contiene actividades y aprendizajes de mi Licenciatura en Arte y Comunicaci´n Digitales**
 
 Aquí mostrare un poco sobre mi trabajo, obras y proyectos que he realizado durante estos 5 trimestres que llevo en la carrera.
- Me gusta mucho la fotografía y experimentar con elementos fuera de lo común.
-     Me gusta mucho la fotografía y experimentar con elementos fuera de lo común.
-    
-     Mis proyectos y tabajos se basan en los aprendizajes y retroalimentación que adquirido en mi estancia en la universidad, 
-     y explorar más sobre mi creatividad y demás, me ha impulsado a dar a conocer mis obras.
-    He tenido la oportunidad de ser una de las organizadoras de un Festival hecho por los alumnos en
-    la universidad.Proyecto que surgió gracias a nuestra curiosidad por saber el como sería organizar
-    algo así de grande. 
+# Sobre mí:
+ Fotógrafa en constante evolución, apasionada por experimentar con técnicas nuevas e innovadoras y capturar momentos únicos. Mis proyectos se basan en los conocimientos y retroalimentación adquiridos en la universidad, y buscan explorar mi creatividad artística.
+
+Experiencia:
+- Organizadora del Festival Universitario Nuevas Ópticas
+- Proyectos personales de fotografía experimental.
+
+Habilidades:
+- Fotografía digital y edición
+- Organización de eventos y proyectos creativos
+
+Me enfoco en crear imágenes, vídeos que cuenten alguna historia y evoquen emociones.
